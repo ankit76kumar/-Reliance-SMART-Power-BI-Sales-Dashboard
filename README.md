@@ -20,31 +20,8 @@ MS Excel – For pre-processing and data formatting.
 
 DAX (Data Analysis Expressions) – To calculate measures like profit %, total cost, etc.
 
-Data Modeling – Relationships between tables like Transactions, Customers, Products, Returns, and Regions.
+Data Modeling – Relationships between tables like Transactions, Customers, Products, Returns, and Regions
 
-📁 Recommended Repository Structure
-bash
-Copy
-Edit
-📁 reliance-smart-dashboard/
-│
-├── 📊 PowerBI_Dashboard.pbix          # Power BI file (your actual dashboard)
-├── 📷 dashboard-preview.png           # Screenshot of your dashboard (already uploaded)
-├── 📁 data/
-│   ├── transactions.csv               # Sample or masked transaction data
-│   ├── customers.csv                  # Sample customer data
-│   ├── products.csv                   # Product catalog
-│   ├── regions.csv                    # Region-wise mapping
-│   └── returns.csv                    # Return transactions
-│
-├── 📄 README.md                       # Project overview (below content)
-└── 📄 LICENSE                         # Optional: MIT or any preferred license
-📄 README.md (Content to include)
-You can copy and paste the following into your README.md:
-
-markdown
-Copy
-Edit
 # Reliance SMART – Sales Dashboard (Power BI)
 
 This project showcases an interactive Power BI dashboard that analyzes retail sales data for Reliance SMART across regions, brands, store types, and customers.
